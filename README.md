@@ -1,3 +1,3 @@
 ### Multi_Security_Layer_HLS_Watermarking 
 
-The proposed watermarking constraints are automatically generated using this python script.
+The proposed watermark (unique binary-stream) is automatically generated using this python script.
